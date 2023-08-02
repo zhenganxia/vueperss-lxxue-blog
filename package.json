@@ -1,5 +1,5 @@
 {
-  "name": "learning-summary-vue-press",
+  "name": "vueperss-lxxue-blog",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhenganxia/learning-summary-vue-press.git"
+    "url": "git+https://github.com/zhenganxia/vueperss-lxxue-blog.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zhenganxia/learning-summary-vue-press/issues"
+    "url": "https://github.com/zhenganxia/vueperss-lxxue-blog/issues"
   },
-  "homepage": "https://github.com/zhenganxia/learning-summary-vue-press#readme",
+  "homepage": "https://github.com/zhenganxia/vueperss-lxxue-blog#readme",
   "devDependencies": {
     "vuepress": "^1.8.2"
   },
