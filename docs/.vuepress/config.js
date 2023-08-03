@@ -1,7 +1,6 @@
 module.exports = {
   title: "峖小虾技术网站",
   description: "",
-  base: "/vueperss-lxxue-blog/", // 设置站点根路径和github项目名称保持一致
   plugins: [ // 配置插件
     'demo-container',
     'vuepress-plugin-cat',
