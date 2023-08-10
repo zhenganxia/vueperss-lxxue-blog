@@ -4,11 +4,11 @@ heroText: SF
 heroImage: /images/transparent-penguin-642f78fc022fc8.578682741680832764009.png
 tagline: 知识是时间的积累，你我在未来更精彩
 actionText: 立即开始
-actionLink: /project
+actionLink: /project/
 features:
   - title: 项目
     details: 项目常见问题
-    url: /project
+    url: /project/
     img: /images/2019102120283213435.jpg!w500.jpg
   - title: 学习 
     details: docsify、vuepress、uni
