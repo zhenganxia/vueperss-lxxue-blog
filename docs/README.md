@@ -8,19 +8,19 @@ actionLink: /project/
 features:
   - title: 项目
     details: 项目常见问题
-    url: /project/
+    url: /#/project/
     img: /images/2019102120283213435.jpg!w500.jpg
   - title: 学习 
     details: docsify、vuepress、uni
-    url: /learning
+    url: /#/learning
     img: /images/201910282304503584.jpg!w500.jpg
   - title: 工具和面试
     details: 常用素材、命令、面试资料
-    url: /unitUrl
+    url: /#/unitUrl
     img: /images/2019102200264640549.jpg!w500.jpg
   - title: css
     details: 样式
-    url: /cssUrl
+    url: /#/cssUrl
     img: /images/2019102200264640549.jpg!w500.jpg
    # footer: MIT Licensed | Copyright © 2020-present
 ---
