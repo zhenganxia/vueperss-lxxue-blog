@@ -25,15 +25,14 @@
         </div>
     </header>
 
-    <div v-if="data.features && data.features.length" class="features">
+   <div v-if="data.features && data.features.length" class="features">
       <div
         v-for="(feature, index) in data.features"
         :key="index"
         class="feature"
-        @click="handleClickFeature(feature.url)"
       >
         <div class="feature-cover">
-          <img :alt="feature.title" :src="feature.img" />
+          <img :alt="feature.title" :src="$withBase(feature.img)" />
         </div>
         <div class="feature-body">
           <NavLink  :item="actionLinkTitle(feature)" />
